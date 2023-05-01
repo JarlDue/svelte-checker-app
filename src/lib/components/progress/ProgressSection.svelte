@@ -17,6 +17,6 @@
     <h3 class="text-xl font-bold text-gray-three">Progress</h3>
     <div class="mt-8 space-y-8">
       <ProgressBar title="In Progress" percentage={progressPercentage} />
-    <ProgressBar title="Completed" percentage={completePercentage} />
+    <ProgressBar title="Done" percentage={completePercentage} />
     </div>
 </section>
